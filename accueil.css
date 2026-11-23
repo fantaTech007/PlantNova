@@ -100,7 +100,6 @@ body > ul {
     font-size: 1.5rem;
 }
 
-/* ---------- Téléphone ---------- */
 @media (max-width: 480px) {
     nav ul { gap: 20px !important; }
     h2 { margin-top: 70px; }
