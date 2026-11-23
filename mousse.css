@@ -155,7 +155,6 @@ footer a:hover {
     text-decoration: underline;
 }
 
-/* ---------- Téléphone : tout passe sur une colonne ---------- */
 @media (max-width: 560px) {
     header { grid-template-columns: 1fr; }
     header > * { grid-column: 1 !important; grid-row: auto !important; }
